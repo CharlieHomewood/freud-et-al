@@ -1,0 +1,82 @@
+\contentsline {section}{Read in datasets}{4}{section*.5}%
+\contentsline {section}{Inspect datasets}{4}{section*.6}%
+\contentsline {section}{Computational Reproduction}{5}{section*.7}%
+\contentsline {subsection}{Cross Sectional Analysis}{5}{section*.8}%
+\contentsline {subsubsection}{ANOVA (time points, orientation, gender and group)}{5}{section*.9}%
+\contentsline {paragraph}{Original paper reported:}{6}{section*.10}%
+\contentsline {paragraph}{Computational reproduction success:}{7}{section*.11}%
+\contentsline {paragraph}{Issues faced:}{7}{section*.12}%
+\contentsline {subsubsection}{Bayesian ANOVA}{7}{section*.13}%
+\contentsline {paragraph}{Original paper reported:}{8}{section*.14}%
+\contentsline {paragraph}{Computational reproduction success:}{8}{section*.15}%
+\contentsline {paragraph}{Issues faced:}{9}{section*.16}%
+\contentsline {subsubsection}{Two-sample Kolmogorov-Smirnov test}{9}{section*.17}%
+\contentsline {paragraph}{Original paper reported:}{9}{section*.18}%
+\contentsline {paragraph}{Computational reproduction success:}{9}{section*.19}%
+\contentsline {paragraph}{Issues faced:}{9}{section*.20}%
+\contentsline {subsubsection}{ANOVA for reaction times (RTs)}{9}{section*.21}%
+\contentsline {paragraph}{Original paper reported:}{10}{section*.22}%
+\contentsline {paragraph}{Computational reproduction success:}{10}{section*.23}%
+\contentsline {paragraph}{Issues faced:}{10}{section*.24}%
+\contentsline {subsubsection}{Bayesian ANOVA for RTs}{10}{section*.25}%
+\contentsline {paragraph}{Original paper reported:}{11}{section*.26}%
+\contentsline {paragraph}{Computational reproduction success:}{11}{section*.27}%
+\contentsline {paragraph}{Issues faced:}{11}{section*.28}%
+\contentsline {subsection}{Longitudinal Analysis}{11}{section*.29}%
+\contentsline {subsubsection}{Repeated measures ANOVA (group, orientation, time)}{11}{section*.30}%
+\contentsline {paragraph}{Original paper reported:}{13}{section*.31}%
+\contentsline {paragraph}{Computational reproduction success:}{13}{section*.32}%
+\contentsline {paragraph}{Issues faced:}{13}{section*.33}%
+\contentsline {subsubsection}{ANOVA RTs}{13}{section*.34}%
+\contentsline {paragraph}{Original paper reported:}{15}{section*.35}%
+\contentsline {paragraph}{Computational reproduction success:}{15}{section*.36}%
+\contentsline {paragraph}{Issues faced:}{15}{section*.37}%
+\contentsline {subsubsection}{Correlation (Jan 2021, Jan 2022)}{15}{section*.38}%
+\contentsline {paragraph}{Original paper reported:}{16}{section*.39}%
+\contentsline {paragraph}{Computational reproduction success:}{16}{section*.40}%
+\contentsline {paragraph}{Issues faced:}{16}{section*.41}%
+\contentsline {subsection}{The EMF Questionnaire}{17}{section*.42}%
+\contentsline {subsubsection}{EMF ANOVA}{17}{section*.43}%
+\contentsline {paragraph}{Original paper reported:}{18}{section*.44}%
+\contentsline {paragraph}{Computational reproduction success:}{18}{section*.45}%
+\contentsline {paragraph}{Issues faced:}{18}{section*.46}%
+\contentsline {subsubsection}{Repeated measures ANOVA (group, orientation, work location)}{18}{section*.47}%
+\contentsline {paragraph}{Original paper reported:}{19}{section*.48}%
+\contentsline {paragraph}{Computational reproduction success:}{19}{section*.49}%
+\contentsline {paragraph}{Issues faced:}{19}{section*.50}%
+\contentsline {subsubsection}{Bayesian ANOVA (masked upright)}{19}{section*.51}%
+\contentsline {paragraph}{Original paper reported:}{19}{section*.52}%
+\contentsline {paragraph}{Computational reproduction success:}{19}{section*.53}%
+\contentsline {paragraph}{Issues faced:}{20}{section*.54}%
+\contentsline {subsubsection}{Correlation (Masked and Masked-Unmasked)}{20}{section*.55}%
+\contentsline {paragraph}{Original paper reported:}{22}{section*.56}%
+\contentsline {paragraph}{Computational reproduction success:}{22}{section*.57}%
+\contentsline {paragraph}{Issues faced:}{22}{section*.58}%
+\contentsline {subsection}{CFMT: within-subject design}{22}{section*.59}%
+\contentsline {subsubsection}{Repeated measures ANOVA (mask status as within-subjects variable)}{22}{section*.60}%
+\contentsline {paragraph}{Original paper reported:}{23}{section*.61}%
+\contentsline {paragraph}{Computational paper reported:}{23}{section*.62}%
+\contentsline {paragraph}{Issues faced:}{23}{section*.63}%
+\contentsline {subsubsection}{ANOVA RTs}{23}{section*.64}%
+\contentsline {paragraph}{Original paper reported:}{24}{section*.65}%
+\contentsline {paragraph}{Computational reproduction success:}{24}{section*.66}%
+\contentsline {paragraph}{Issues faced:}{25}{section*.67}%
+\contentsline {subsubsection}{Correlation (mask effect {[}accuracy and RTs{]}, longitudinal EMF scores)}{25}{section*.68}%
+\contentsline {paragraph}{Original paper reported:}{25}{section*.69}%
+\contentsline {paragraph}{Computational reproduction success:}{25}{section*.70}%
+\contentsline {paragraph}{Issues faced:}{25}{section*.71}%
+\contentsline {subsubsection}{ANOVA occupations (health \& retail, students \& unemployed)}{25}{section*.72}%
+\contentsline {paragraph}{Original paper reported:}{25}{section*.73}%
+\contentsline {paragraph}{Computational reproduction success:}{25}{section*.74}%
+\contentsline {paragraph}{Issues faced:}{25}{section*.75}%
+\contentsline {subsubsection}{ANOVA (workplace, mask status)}{25}{section*.76}%
+\contentsline {paragraph}{Original paper reported:}{25}{section*.77}%
+\contentsline {paragraph}{Computational reproduction success:}{26}{section*.78}%
+\contentsline {paragraph}{Issues faced:}{26}{section*.79}%
+\contentsline {subsection}{GFMT: masked faces}{26}{section*.80}%
+\contentsline {subsubsection}{Correlation (face-perception performance {[}d' \& RTs{]}, EMF scores)}{26}{section*.81}%
+\contentsline {paragraph}{Original paper reported:}{27}{section*.82}%
+\contentsline {paragraph}{Computational reproduction success:}{28}{section*.83}%
+\contentsline {paragraph}{Issues faced:}{28}{section*.84}%
+\contentsline {section}{Conclusion}{28}{section*.85}%
+\contentsline {section}{References}{29}{section*.86}%

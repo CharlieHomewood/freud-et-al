@@ -1,0 +1,419 @@
+,Unnamed: 0,upright,inverted,group,age,gender,order,RTupright,RTinverted,experience,regulation,subjective,PI20,PI23,Prop,WorkLoc,subjectID,proflicID,time_elapse,num_lines,country_res,age2021,gender2021,up2021,inv2021,RTup2021,RTinv2021,change_upright,change_inverted
+0,0,56,34,mask,20,female,inverted_first,2163.625,2319.441176,14,10,6,32,32,61,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h49.53.205.csv,5f30ee4c383a0d56521f69c7,15.85536667,288,"es([], ",19,"3    female
+Name: gender, dtype: object",55,44,3255.836364,6031.818182,1,-10
+1,1,41,35,mask,41,female,inverted_first,3427.463415,4099.171429,7,4,11,43,34,0,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h53.00.530.csv,596f003434773e0001fc0d28,22.50886667,288,"es([], ",40,"38    female
+Name: gender, dtype: object",39,43,4791.128205,5692.255814,2,-8
+2,2,45,32,mask,37,male,inverted_first,3049.133333,4488.125,19,10,10,37,26,88,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_19h49.15.808.csv,5d8a98c6f62b5600194549a8,20.7869,288,"es([], ",36,"66    male
+Name: gender, dtype: object",57,27,3046.701754,3806.777778,-12,5
+3,3,58,44,mask,25,female,inverted_first,2918.234483,3767.263636,11,10,5,57,50,84,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_19h54.42.336.csv,5ac56ef9fa3b4e0001737190,24.99231667,288,"es([], ",24,"5    female
+Name: gender, dtype: object",53,42,2666.164057,4115.806429,5,2
+4,4,47,39,mask,21,male,inverted_first,1856.710638,2439.612821,23,12,4,19,17,69,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_22h55.26.333.csv,5ecef464a52fd030f7bfb006,22.4959,288,"es([], ",21,"106    male
+Name: gender, dtype: object",40,44,1747.925,2335.636364,7,-5
+5,5,57,38,mask,22,male,inverted_first,3490.012281,4588.528947,8,9,4,29,24,73,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_22h56.37.225.csv,5f843bd660bf8a0406a09db2,30.5599,288,"es([], ",21,"104    male
+Name: gender, dtype: object",50,40,2307.5912,3402.761,7,-2
+6,6,60,37,mask,22,female,inverted_first,2125.413333,2851.17027,18,11,8,33,25,89,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_23h17.25.503.csv,5eb3cef4444b2f1be1ed2e00,16.91721667,288,"es([], ",21,"51    female
+Name: gender, dtype: object",50,37,1942.2846,3441.387297,10,0
+7,7,53,34,mask,51,female,inverted_first,3265.035849,4810.388235,18,10,5,36,31,20,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_23h23.12.516.csv,5bb0b9f3f1f9ba00013fc0bb,23.65558333,288,"es([], ",50,"49    female
+Name: gender, dtype: object",42,26,3670.71131,4204.625385,11,8
+8,8,27,23,mask,47,female,inverted_first,1743.333333,2363,23,12,6,44,35,100,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_23h52.55.503.csv,5dab49d0301492001858123d,16.4366,288,"es([], ",46,"30    female
+Name: gender, dtype: object",32,24,2380.375,3427.083333,-5,-1
+9,9,38,30,mask,21,male,inverted_first,2969.807895,3216.77,16,9,8,47,40,77,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_23h56.59.546.csv,5eccfbee54762d00083aea9b,23.46033333,288,"es([], ",20,"79    male
+Name: gender, dtype: object",35,34,1980.256286,2219.860588,3,-4
+10,10,49,30,mask,23,female,inverted_first,2389.381633,2173.286667,18,10,0,25,21,100,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_23h58.06.709.csv,5ee579ecd4169f2bee94041e,27.79266667,288,"es([], ",22,"27    female
+Name: gender, dtype: object",52,30,2565.382596,3758.8655,-3,0
+11,11,31,27,mask,20,male,inverted_first,1143.025806,1281.42963,13,4,9,55,47,64,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_00h17.36.368.csv,5fb16376c19dcc608d026e84,16.64121667,288,"es([], ",19,"78    male
+Name: gender, dtype: object",32,27,1191.952812,1099.46,-1,0
+12,12,32,28,mask,22,male,inverted_first,6548.459375,4802.278571,18,9,11,56,47,33,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_00h55.44.748.csv,5e7c98b962fe7f01cc425e08,24.73418333,288,"es([], ",21,"118    male
+Name: gender, dtype: object",42,32,1320.916667,1845.230938,-10,-4
+13,13,49,44,mask,26,male,inverted_first,3416.691837,3833.995455,21,7,7,33,26,56,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_01h04.33.946.csv,5f60cc0601e46d03dc63417e,23.91301667,288,"es([], ",25,"97    male
+Name: gender, dtype: object",49,33,7100.196633,6302.063333,0,11
+14,14,46,37,mask,22,female,inverted_first,2164.2,4295.908108,23,12,2,21,16,75,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_01h38.26.994.csv,5f06394960db30179f25eb5a,18.77511667,288,"es([], ",21,"6    female
+Name: gender, dtype: object",44,33,2234.920682,2972.032273,2,4
+15,15,50,40,mask,29,female,inverted_first,2398.58,3044.325,5,3,8,54,48,6,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_06h19.12.731.csv,5f838b7e780d3e51cf689a5f,17.84676667,288,"es([], ",28,"15    female
+Name: gender, dtype: object",55,46,2956.345455,3814.456522,-5,-6
+16,16,44,40,mask,34,male,inverted_first,1975.159091,2948.9225,9,10,11,50,40,32,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_10h18.03.429.csv,5d751aca82e0080001d5d60f,15.50818333,288,"es([], ",33,"95    male
+Name: gender, dtype: object",52,38,3247.241538,3126.360789,-8,2
+17,17,50,36,mask,23,female,inverted_first,1558.66,1909.111111,24,12,8,40,31,100,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_10h23.10.328.csv,5f2a05ee99ab491cdb83c3d4,12.30856667,288,"es([], ",22,"42    female
+Name: gender, dtype: object",49,35,1855.265306,2915.371429,1,1
+18,18,50,41,mask,34,female,inverted_first,2942.842,3213.453659,15,7,8,38,32,67,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_10h28.43.458.csv,5ee9f3837b8d29017d076284,19.98573333,288,"es([], ",33,"46    female
+Name: gender, dtype: object",45,42,2439.473556,3507.80619,5,-1
+19,19,48,33,mask,36,male,inverted_first,2281.916667,3313.969697,10,4,8,38,31,50,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_12h10.39.703.csv,5e2ffb0bacf5fe59b18f161d,21.08575,288,"es([], ",37,"96    male
+Name: gender, dtype: object",41,34,2913.658537,4919.088235,7,-1
+20,20,33,27,mask,23,male,inverted_first,1350.09697,1497.622222,14,6,12,38,35,11,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_12h28.52.396.csv,5d8934d9a3dd000001ce8676,15.95798333,288,"es([], ",22,"114    female
+Name: gender, dtype: object",40,37,2596.849625,3234.632027,-7,-10
+21,21,30,31,mask,22,male,inverted_first,1610.036667,3479.2,2,9,3,46,38,27,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_13h00.13.626.csv,5f6ce0c2d042a8109ee8355d,18.77211667,288,"es([], ",21,"60    male
+Name: gender, dtype: object",27,33,9275.487593,7061.087273,3,-2
+22,22,42,28,mask,41,male,inverted_first,5927.283333,5405.957143,16,4,6,41,35,66,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_13h13.06.119.csv,5f818dc409c1522470868c98,31.0332,288,"es([], ",41,"84    male
+Name: gender, dtype: object",50,37,3579.8331,4218.077703,-8,-9
+23,23,39,39,mask,35,male,inverted_first,2326.712821,3531.076923,7,10,11,36,27,46,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_14h04.23.271.csv,5e852ca6fdad8f11511558a1,19.20151667,288,"es([], ",34,"9    female
+Name: gender, dtype: object",41,38,2374.337927,5648.866053,-2,1
+24,24,42,37,mask,19,female,inverted_first,2047.561905,2794.508108,22,10,1,21,18,89,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_16h05.21.717.csv,5f6f06f3ef894f026d551497,17.65513333,288,"es([], ",18,"36    female
+Name: gender, dtype: object",24,40,864.440625,2353.550125,18,-3
+25,25,30,30,mask,28,male,inverted_first,1321.91,1612.233333,22,10,8,60,50,83,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_18h50.14.425.csv,5cb7c2702b3b0d0012de105c,12.03343333,288,"es([], ",27,"105    male
+Name: gender, dtype: object",58,43,2396.520603,3149.197093,-28,-13
+26,26,49,38,mask,21,female,inverted_first,1971.483673,3316.468421,16,8,9,52,44,67,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_19h07.07.837.csv,5fa3f64e83a7e6044e80ac66,18.62568333,288,"es([], ",20,"57    female
+Name: gender, dtype: object",50,38,2792.72,3714.442105,-1,0
+27,27,41,33,mask,19,female,inverted_first,2937.173171,3316.472727,12,10,5,29,24,22,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_09h30.45.282.csv,5efdc12f5d69f622915a97a1,23.30033333,288,"es([], ",18,"55    female
+Name: gender, dtype: object",34,39,2175.412794,3074.765769,7,-6
+28,28,66,58,mask,21,female,inverted_first,2991.090909,3215.172414,8,3,5,31,24,6,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_16h29.24.413.csv,5f218ad15490300a85fa19b5,17.5191,288,"es([], ",20,"16    female
+Name: gender, dtype: object",64,32,2790.390625,3987.1875,2,26
+29,29,49,37,mask,25,male,inverted_first,2315.183673,2606.459459,16,5,4,26,22,72,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_16h57.24.727.csv,5f733f953409c7015fc43d26,17.2324,288,"es([], ",24,"107    male
+Name: gender, dtype: object",44,33,2664.454545,2734.393939,5,4
+30,30,48,47,mask,24,male,inverted_first,3738.958333,4101.851064,17,12,4,25,20,89,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_11h26.28.62.csv,5eaf5453aed6df00086b5eb5,27.23475,288,"es([], ",23,"70    male
+Name: gender, dtype: object",52,37,3528.980769,3949.864865,-4,10
+31,31,47,34,mask,26,female,inverted_first,2356.738298,2509.279412,18,4,8,41,34,55,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_12h45.24.753.csv,5c6de2ba2bdd040001d6b293,16.27013333,288,"es([], ",25,"37    female
+Name: gender, dtype: object",47,34,2809.358617,3375.843529,0,0
+32,32,38,42,mask,39,female,inverted_first,3538.763158,4185.47619,19,7,3,46,40,55,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_13h08.59.282.csv,5f6c8d62a37ab8048d2d268e,26.2773,288,"es([], ",38,"52    female
+Name: gender, dtype: object",28,30,3170.464286,4073.433333,10,12
+33,33,56,42,mask,35,female,inverted_first,2916.464286,3583.078571,19,11,4,35,27,89,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_14h55.17.721.csv,5d6b80b93cbfc90001b1b2f4,22.80185,288,"es([], ",34,"29    female
+Name: gender, dtype: object",50,45,2517.8002,3733.187222,6,-3
+34,34,43,29,mask,19,female,inverted_first,1581.188372,1506.865517,6,5,8,52,42,44,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_17h57.47.149.csv,5effa578fa024409d98c2b7a,15.44411667,288,"es([], ",18,"62    female
+Name: gender, dtype: object",54,38,2053.359352,2753.325526,-11,-9
+35,35,47,30,mask,28,male,inverted_first,2050.317021,1711.496667,22,12,0,14,14,89,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_18h31.10.828.csv,5c10fe241f6f15000148ad15,13.07671667,288,"es([], ",27,"71    male
+Name: gender, dtype: object",34,28,1171.533971,2577.723036,13,2
+36,36,46,32,mask,27,male,inverted_first,3249.48913,4289.66875,19,5,11,30,23,66,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_21h01.46.571.csv,5efe09d0bb70312aec1c5a85,26.55221667,288,"es([], ",26,"87    male
+Name: gender, dtype: object",41,35,4100.809024,6144.020143,5,-3
+37,37,48,38,mask,31,male,inverted_first,2973,3435.394737,18,9,0,21,17,55,unemployed,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_23h47.46.255.csv,5d920b040fc1490019cf2e44,20.71471667,288,"es([], ",30,"85    male
+Name: gender, dtype: object",43,33,2884.371512,5745.581364,5,5
+38,38,48,33,mask,22,male,inverted_first,1519.410417,2494.690909,13,7,2,33,28,55,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-02_11h05.55.445.csv,5c37cfa819ceb400010c0979,13.04055,288,"es([], ",21,"103    male
+Name: gender, dtype: object",40,27,1887.153125,1576.178889,8,6
+39,39,46,42,mask,41,female,inverted_first,2833.673913,4194.285714,22,12,10,26,23,83,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-02_23h13.26.469.csv,5cf97cad3c3cdd0016f1144c,28.36016667,288,"es([], ",40,"61    female
+Name: gender, dtype: object",47,35,3418.148936,4098.057143,-1,7
+40,40,41,35,mask,25,male,inverted_first,1811.1,3005.122857,11,3,4,31,29,60,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_15h03.41.939.csv,5f828a57f6cc2d3bbb217f53,15.4453,288,"es([], ",25,"99    male
+Name: gender, dtype: object",25,34,1448.7834,3711.443529,16,1
+41,41,41,34,mask,29,female,inverted_first,1799.378049,3366.364706,12,3,5,30,23,19,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_15h46.12.231.csv,57e17bdc1334540001170aa0,17.01481667,288,"es([], ",28,"50    female
+Name: gender, dtype: object",49,42,2867.127653,6140.580952,-8,-8
+42,42,45,38,mask,50,female,inverted_first,2543.084444,4436.45,16,10,6,37,33,93,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_19h00.52.278.csv,5e7cd97723469b074db08e20,22.9461,288,"es([], ",49,"2    female
+Name: gender, dtype: object",41,36,2911.638415,4544.122083,4,2
+43,43,49,37,mask,27,female,inverted_first,1695.693878,1912.162162,22,12,2,35,29,87,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-04_12h10.55.125.csv,5eb018fb48f57506a979b8c1,12.85653333,288,"es([], ",26,"20    female
+Name: gender, dtype: object",51,37,1624.273333,1987.388243,-2,0
+44,44,42,42,mask,28,female,inverted_first,3357.380952,4303.380952,17,8,4,33,30,74,Office,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-04_19h40.14.142.csv,5f5165ce1bff403b27a108ff,25.05615,288,"es([], ",27,"8    female
+Name: gender, dtype: object",46,39,2702.282609,3156.717949,-4,3
+45,45,33,19,mask,19,male,inverted_first,1116.972727,3903.405263,13,4,7,61,53,78,Home,jan2021_cfmt_mask_inverted_upright_PARTICIPANT_SESSION_2022-01-04_21h17.51.668.csv,5febf30be6b281d5f6d6a762,25.95758333,288,"es([], ",18,"75    male
+Name: gender, dtype: object",44,39,3677.295455,6452.74359,-11,-20
+46,46,49,45,mask,27,male,upright_first,3147.234694,3334.173333,15,8,4,23,23,77,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_15h37.51.837.csv,5f3dfbe7871782220d460d41,21.95273333,288,"es([], ",26,"348    male
+Name: gender, dtype: object",45,43,2410.187556,2701.108256,4,2
+47,47,45,41,mask,27,female,upright_first,3623.908889,2976.973171,17,11,9,61,52,95,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_16h03.07.657.csv,5d4ca4c24f49b2001a7152b3,25.68995,288,"es([], ",26,"286    female
+Name: gender, dtype: object",40,34,5167.0885,3992.343088,5,7
+48,48,58,43,mask,25,female,upright_first,2830.598276,3000.988372,4,10,8,34,29,21,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_17h57.07.789.csv,5ca52f11cc8b7e0016b86c05,21.1898,288,"es([], ",24,"284    female
+Name: gender, dtype: object",60,49,2739.598167,3321.319592,-2,-6
+49,49,49,39,mask,25,male,upright_first,2474.781633,2272.805128,12,12,7,60,50,89,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_18h39.17.332.csv,5e9133f704391d46ee2bcb31,20.92093333,288,"es([], ",24,"312    male
+Name: gender, dtype: object",51,40,2941.861275,8761.58575,-2,-1
+50,50,39,29,mask,36,female,upright_first,2549.794872,1992.517241,12,8,4,27,24,85,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_21h34.09.340.csv,5ec8116b8a10c50f8eb16ec2,16.55795,288,"es([], ",35,"260    female
+Name: gender, dtype: object",43,31,5814.983953,2275.384677,-4,-2
+51,51,39,36,mask,23,male,upright_first,2836.264103,1190.425,18,12,2,30,23,88,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_21h39.23.211.csv,5c19f2319bce3100018a67ba,21.76818333,288,"es([], ",22,"353    male
+Name: gender, dtype: object",39,37,2843.586795,1786.747973,0,-1
+52,52,65,45,mask,34,male,upright_first,4324.092308,5316.755556,8,8,4,37,31,30,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_21h48.40.934.csv,57e4863fea00cf0001d4965e,30.32786667,288,"es([], ",33,"323    male
+Name: gender, dtype: object",62,41,4724.758065,5543.243902,3,4
+53,53,41,39,mask,47,female,upright_first,3274,3015.153846,17,8,10,54,45,66,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_21h54.13.201.csv,5ea04e9dbb81f60726da2182,17.80443333,288,"es([], ",46,"293    female
+Name: gender, dtype: object",39,41,4424.948718,3338.536585,2,-2
+54,54,58,33,mask,36,female,upright_first,2024.744828,1833.878788,16,10,5,20,19,68,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_22h05.23.417.csv,5e3de55071cf2606b45c50a6,15.71865,288,"es([], ",35,"256    female
+Name: gender, dtype: object",64,39,3428.359375,2338.51282,-6,-6
+55,55,45,23,mask,21,male,upright_first,10296.35333,1627.878261,18,7,7,60,53,78,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_22h16.20.719.csv,5fd105d3a30efb0173fe5486,59.50773333,288,"es([], ",20,"326    male
+Name: gender, dtype: object",57,40,16333.6614,4131.1125,-12,-17
+56,56,57,53,mask,32,female,upright_first,2074.994737,2461.126415,16,10,2,21,19,71,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_22h34.18.120.csv,5ef7d536bd27420f7e9d768a,17.05646667,288,"es([], ",31,"274    female
+Name: gender, dtype: object",62,46,3414.83379,3457.430109,-5,7
+57,57,39,37,mask,25,female,upright_first,2958.923077,2389.648649,17,8,12,62,53,96,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_22h35.51.881.csv,5d5d188a6752000001cda015,19.09136667,288,"es([], ",24,"301    female
+Name: gender, dtype: object",41,43,2632.107195,1963.042674,-2,-6
+58,58,41,28,mask,35,male,upright_first,2494.341463,3074.567857,12,8,6,50,43,66,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_22h57.26.305.csv,5bd47bddf00299000168122e,22.73225,288,"es([], ",34,"343    male
+Name: gender, dtype: object",42,33,6483.35619,2983.156667,-1,-5
+59,59,44,48,mask,23,female,upright_first,3181.402273,3142.039583,15,8,6,51,42,33,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_23h30.17.710.csv,5e03e9c353b56eeb455bb7d2,22.12798333,288,"es([], ",22,"305    female
+Name: gender, dtype: object",41,44,3866.476098,4210.227614,3,4
+60,60,51,44,mask,21,male,upright_first,1719.235294,1570.465909,19,10,3,44,35,77,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_23h32.26.187.csv,5f3ab64e0dda76127bcc344e,13.72393333,288,"es([], ",20,"344    male
+Name: gender, dtype: object",43,36,1782.672093,1394.168333,8,8
+61,61,41,34,mask,26,female,upright_first,4906.526829,3301.155882,20,12,12,64,52,78,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_23h39.21.937.csv,5d2ce26bc5b83a0001b8154f,33.2287,288,"es([], ",26,"307    female
+Name: gender, dtype: object",49,36,4958.085,6526.234028,-8,-2
+62,62,54,44,mask,24,female,upright_first,3158.712963,2329.759091,17,8,7,49,41,66,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_23h46.24.80.csv,5ee9ea0466afb7000be846b9,49.21463333,288,"es([], ",23,"297    female
+Name: gender, dtype: object",52,38,3623.297692,3390.707368,2,6
+63,63,53,47,mask,19,male,upright_first,5078.001887,3427.129787,13,9,11,33,25,56,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_00h01.37.59.csv,5f63bbddcef07910924ce7a1,29.2292,288,"es([], ",19,"368    male
+Name: gender, dtype: object",43,43,5005.717791,3984.622907,10,4
+64,64,55,36,mask,27,male,upright_first,2239.410909,1946.597222,21,12,6,26,22,88,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_00h20.05.137.csv,5c6dd18f4e08ad00018cc5f6,15.68431667,288,"es([], ",26,"345    male
+Name: gender, dtype: object",51,37,3434.598039,2779.81473,4,-1
+65,65,55,41,mask,22,female,upright_first,3101.016364,3347.212195,21,10,4,48,42,77,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_00h30.21.291.csv,5f8dd439bef78f1397072acf,22.23968333,288,"es([], ",21,"275    female
+Name: gender, dtype: object",46,37,3386.18663,3564.916216,9,4
+66,66,47,36,mask,22,male,upright_first,1916.719149,1814.494444,19,5,7,35,29,66,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_00h34.33.808.csv,5b2be613993d7f00012a93bf,14.4929,288,"es([], ",21,"332    male
+Name: gender, dtype: object",45,40,2461.487556,2607.552125,2,-4
+67,67,33,39,mask,20,male,upright_first,2598.272727,2552.820513,6,7,8,46,41,0,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_01h31.48.10.csv,5e94a643b4f9c13268892d9c,19.37113333,288,"es([], ",31,"366    male
+Name: gender, dtype: object",38,36,5062.236842,3544.5,-5,3
+68,68,32,28,mask,18,female,upright_first,1967.9375,2136.903571,15,6,9,42,37,63,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_01h51.33.547.csv,5f1fd0d33f0d5e2075724c24,22.582,288,"es([], ",18,"334    male
+Name: gender, dtype: object",39,33,3120.048846,3065.816667,-7,-5
+69,69,46,42,mask,21,female,upright_first,2735.906522,3621.816667,18,8,10,34,27,33,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_02h52.35.662.csv,5ff2269ce5e6316d2c328247,23.31423333,288,"es([], ",20,"277    female
+Name: gender, dtype: object",49,35,4332.175816,3379.805429,-3,7
+70,70,62,40,mask,29,female,upright_first,2965.822581,2864.375,24,10,1,26,20,89,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_03h21.53.95.csv,5ecc192d07b7e27e27e94926,21.52655,288,"es([], ",28,"258    female
+Name: gender, dtype: object",55,51,3773.054545,4227.823529,7,-11
+71,71,43,27,mask,20,female,upright_first,1932.44186,1807.888889,6,11,6,28,22,9,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_05h17.32.947.csv,5f44a14dc9c379248aa705a9,15.74323333,288,"es([], ",19,"283    female
+Name: gender, dtype: object",36,25,2247.043056,2026.798,7,2
+72,72,45,44,mask,18,female,upright_first,3001.2,2787.931818,20,11,9,53,44,80,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_10h22.24.432.csv,5f50dcfd4490ae26df5fbb3a,18.90188333,288,"es([], ",18,"294    female
+Name: gender, dtype: object",45,36,3301.632333,3336.651111,0,8
+73,73,42,31,mask,37,female,upright_first,5285.830952,3096.703226,13,10,7,34,24,45,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_10h59.39.254.csv,5c2a799737ae5200017c7712,29.92601667,288,"es([], ",36,"298    female
+Name: gender, dtype: object",39,33,5907.656538,3393.778182,3,-2
+74,74,49,39,mask,26,male,upright_first,3843.634694,3507.028205,13,10,3,43,39,77,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_11h06.33.504.csv,5e58fa19fc38d6104f798878,25.9498,288,"es([], ",25,"341    male
+Name: gender, dtype: object",41,34,5153.83622,2984.295147,8,5
+75,75,49,38,mask,23,male,upright_first,4114.120408,3464.760526,17,12,10,47,38,94,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_11h21.09.569.csv,5f808f64cf86c60d229cc92c,22.39198333,288,"es([], ",22,"315    male
+Name: gender, dtype: object",40,36,4092.140125,3014.208194,9,2
+76,76,47,37,mask,21,male,upright_first,1629.057447,2117.583784,23,12,4,31,28,83,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_12h09.02.211.csv,5f9daa7e3ec0713096cd9d36,15.56243333,288,"es([], ",20,"354    male
+Name: gender, dtype: object",51,39,3918.073333,3570.267564,-4,-2
+77,77,43,38,mask,30,male,upright_first,2348.197674,4617.692105,23,12,0,29,26,78,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_12h11.06.865.csv,5de4600da6653143fd707b5e,17.45093333,288,"es([], ",29,"321    male
+Name: gender, dtype: object",42,41,3078.69631,2199.808659,1,-3
+78,78,38,36,mask,26,male,upright_first,2903.792105,2824.330556,16,9,12,54,44,88,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_12h31.55.694.csv,5ccf022bafa2f60018c2e9bc,29.33756667,288,"es([], ",25,"335    male
+Name: gender, dtype: object",52,49,2911.673077,2931.183673,-14,-13
+79,79,43,32,mask,25,female,upright_first,2465.246512,2183.446875,15,9,6,35,30,77,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_12h42.58.755.csv,5f90897f123d111641309f5c,18.43035,288,"es([], ",24,"363    male
+Name: gender, dtype: object",34,36,3110.593382,2225.434028,9,-4
+80,80,40,42,mask,36,male,upright_first,3891.795,4820.45,22,8,10,55,43,78,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_13h51.23.724.csv,5ced87e5417ee4001995c1cd,24.13036667,288,"es([], ",35,"322    male
+Name: gender, dtype: object",45,42,3985.642222,7230.541667,-5,0
+81,81,36,37,mask,57,female,upright_first,4729.947222,4808.64054,18,10,5,40,33,83,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_14h37.45.465.csv,5ea5627a7b0f25528a7b3915,26.07395,288,"es([], ",56,"296    female
+Name: gender, dtype: object",36,32,4274.313195,3517.087187,0,5
+82,82,53,39,mask,19,male,upright_first,2932.332075,2626.264103,10,9,8,47,40,33,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_15h17.43.25.csv,5fef4c74351a26d95d46b0ba,20.64933333,288,"es([], ",18,"339    male
+Name: gender, dtype: object",43,45,5302.968023,3420.487222,10,-6
+83,83,36,33,mask,20,male,upright_first,4770.75,2976.393939,12,8,3,32,26,78,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_16h01.02.964.csv,5fb560596962c203baf6574e,32.0402,288,"es([], ",19,"365    male
+Name: gender, dtype: object",52,39,3471.673077,2859.948718,-16,-6
+84,84,32,42,mask,46,female,upright_first,3442.146875,3156.354762,17,6,8,39,34,62,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_18h39.41.73.csv,5ae6313e58af2400010a4a7d,24.97411667,288,"es([], ",45,"303    female
+Name: gender, dtype: object",47,31,4343.983617,3187.67871,-15,11
+85,85,52,47,mask,42,female,upright_first,2629.707692,4509.578723,21,11,4,28,27,82,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_20h27.10.890.csv,592b8bfa5a36ba0001f48d70,26.74778333,288,"es([], ",41,"299    female
+Name: gender, dtype: object",51,39,3485.834216,4260.373846,1,8
+86,86,45,34,mask,30,female,upright_first,2517.188889,2625.585294,21,10,6,36,33,77,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_20h31.41.798.csv,5f07df87f8e03d42256a4a7b,19.38386667,288,"es([], ",29,"248    female
+Name: gender, dtype: object",50,27,3412.3336,2971.464259,-5,7
+87,87,48,40,mask,24,female,upright_first,3752.704167,2797.725,15,11,5,30,21,77,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_21h52.20.20.csv,5f01c00db92981305cc52a86,21.00751667,288,"es([], ",23,"266    female
+Name: gender, dtype: object",37,47,3226.289459,2455.422766,11,-7
+88,88,35,38,mask,24,female,upright_first,2567.842857,2179.507895,20,10,4,44,40,98,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_22h51.58.330.csv,5f1b5c4eff5fe735544f60fd,17.30605,288,"es([], ",24,"268    female
+Name: gender, dtype: object",41,38,2950.511829,2351.709605,-6,0
+89,89,38,36,mask,52,male,upright_first,4337.031579,3859.6,10,10,10,38,28,66,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_06h13.36.740.csv,5f16dd98d5816400089a1cb5,25.21346667,288,"es([], ",51,"352    male
+Name: gender, dtype: object",41,40,2981.950366,2323.095375,-3,-4
+90,90,37,31,mask,25,male,upright_first,2018.708108,1853.864516,16,5,7,36,29,72,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_15h44.05.151.csv,5f4d43876b90b72cfeb8be62,15.45828333,288,"es([], ",24,"370    male
+Name: gender, dtype: object",27,22,2122.978704,975.4118182,10,9
+91,91,29,35,mask,22,male,upright_first,2671.062069,721.3914286,16,9,11,61,53,76,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_19h27.01.48.csv,5cbc8bd2114fa5001aac5c45,77.11973333,288,"es([], ",21,"330    male
+Name: gender, dtype: object",29,30,3102.809828,1264.169,0,5
+92,92,60,35,mask,23,male,upright_first,2925.88,3269.297143,9,11,6,35,31,98,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_23h45.54.907.csv,5eb8aaf01f700881f8bedf43,19.92106667,288,"es([], ",22,"319    male
+Name: gender, dtype: object",56,45,4213.204821,4750.818222,4,-10
+93,93,32,35,mask,23,male,upright_first,2384.23125,2511.52,24,10,10,57,49,76,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-01_13h54.35.727.csv,5c6e26630c45820001b851d3,17.74586667,288,"es([], ",22,"309    male
+Name: gender, dtype: object",37,36,2644.378378,2561.916667,-5,-1
+94,94,51,29,mask,23,female,upright_first,1870.698039,2004.634483,19,8,6,38,35,86,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-01_14h17.53.297.csv,5f9c3001bcf5b507b02559ba,18.51948333,288,"es([], ",22,"292    female
+Name: gender, dtype: object",54,37,2660.611111,1999.972973,-3,-8
+95,95,40,35,mask,21,female,upright_first,2668.33,2702.262857,18,12,5,38,35,78,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-01_23h47.06.967.csv,5dd90c31238a9189593ebd4d,17.70806667,288,"es([], ",20,"290    female
+Name: gender, dtype: object",49,38,3567.417653,3123.990789,-9,-3
+96,96,45,38,mask,21,male,upright_first,2683.866667,3218.923684,15,4,4,39,36,44,unemployed,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_01h18.43.361.csv,5ead86a011f59741e8111c86,22.21378333,288,"es([], ",20,"362    male
+Name: gender, dtype: object",47,39,2850.333085,3290.023718,-2,-1
+97,97,40,33,mask,22,female,upright_first,1681.65,1424.242424,18,10,11,58,49,70,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_13h42.10.573.csv,5dc444bb9db53c30cd0b2206,13.32701667,288,"es([], ",21,"252    female
+Name: gender, dtype: object",51,38,2995.988039,2227.116974,-11,-5
+98,98,45,40,mask,19,female,upright_first,3009.024444,1999.57,22,9,2,34,31,94,Office,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_14h02.22.483.csv,5fb1342e08e942585248e2fc,15.45213333,288,"es([], ",18,"253    female
+Name: gender, dtype: object",47,41,3419.446489,1813.057317,-2,-1
+99,99,50,46,mask,25,female,upright_first,4524.074,5870.163043,13,11,4,49,44,67,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_16h37.52.769.csv,5bb4bd8807aac300011f3100,37.85738333,288,"es([], ",24,"263    female
+Name: gender, dtype: object",60,50,4961.35925,4017.2657,-10,-4
+100,100,57,43,mask,28,male,upright_first,3819.615789,4146.365116,16,10,7,41,30,67,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_20h34.00.527.csv,5f5523c64683840d16672ad3,22.1567,288,"es([], ",27,"331    male
+Name: gender, dtype: object",50,45,3038.451,2627.549444,7,-2
+101,101,60,52,mask,21,male,upright_first,3111.815,4436.294231,17,10,9,48,37,91,Home,jan2021_cfmt_mask_upright_inverted_PARTICIPANT_SESSION_2022-01-02_22h54.29.890.csv,5d72923243376f0001c2d4f8,37.41763333,288,"es([], ",20,"350    male
+Name: gender, dtype: object",55,45,5775.712091,9312.850111,5,7
+102,102,62,46,no mask,22,male,inverted_first,2121.656452,2648.269565,18,9,2,32,29,83,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-28_21h05.10.625.csv,5f24db32bb18c511736499f8,24.03808333,288,"es([], ",21,"188    male
+Name: gender, dtype: object",59,54,5298.703475,8413.441204,3,-8
+103,103,67,36,no mask,22,male,inverted_first,2938.731343,5287.444444,14,8,7,29,25,37,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-28_21h13.01.228.csv,5fe511a6cfa055b0cfda6c98,28.02463333,288,"es([], ",21,"187    male
+Name: gender, dtype: object",60,36,4292.850417,8352.556667,7,0
+104,104,65,43,no mask,21,male,inverted_first,2421.369231,5399.286047,23,10,2,29,25,83,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_02h58.23.283.csv,5e852779715023000bae4afe,21.93888333,288,"es([], ",21,"190    male
+Name: gender, dtype: object",59,34,2178.839661,3202.533529,6,9
+105,105,63,42,no mask,52,female,inverted_first,2901.111111,4265.5,20,10,4,38,35,88,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_06h53.00.146.csv,5f906e4553c0fa11f0302333,23.00075,288,"es([], ",51,"168    female
+Name: gender, dtype: object",52,40,5420.596154,4809.65,11,2
+106,106,61,45,no mask,49,female,inverted_first,3491.686885,5853.555556,16,11,4,36,29,66,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_07h49.21.863.csv,5d43c606773d8b00016eaa8a,31.85518333,288,"es([], ",48,"155    female
+Name: gender, dtype: object",50,42,4914.3392,5969.198929,11,3
+107,107,48,36,no mask,20,female,inverted_first,1982.885417,3251.769444,19,10,7,67,59,33,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_07h51.39.682.csv,5d45dfff082935001aed2fe7,17.3919,288,"es([], ",23,"238    male
+Name: gender, dtype: object",46,35,1980.471739,2355.498857,2,1
+108,108,69,56,no mask,29,female,inverted_first,2931.942029,4239.017857,10,9,7,41,35,94,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_08h47.19.607.csv,5e95d54c53784a0297c22d72,27.6399,288,"es([], ",28,"177    female
+Name: gender, dtype: object",66,40,3091.742424,4499.35,3,16
+109,109,56,33,no mask,33,female,inverted_first,2359.339286,4514.515152,11,10,5,37,31,79,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_09h59.21.268.csv,5f9851db9003f30f0baeb38a,17.79461667,288,"es([], ",32,"161    female
+Name: gender, dtype: object",48,28,2404.240208,2940.857679,8,5
+110,110,56,47,no mask,34,female,inverted_first,3039.392857,4033.085106,15,7,12,73,61,77,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_10h36.35.23.csv,5908826f7a321c0001261e69,22.94906667,288,"es([], ",33,"147    female
+Name: gender, dtype: object",51,53,2310.627451,3639.830189,5,-6
+111,111,38,26,no mask,19,male,inverted_first,2385.165789,3346.480769,15,6,9,51,44,72,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_11h15.16.212.csv,5e52b50589d7ad2d4f171dfc,19.11221667,288,"es([], ",18,"198    male
+Name: gender, dtype: object",32,26,2425.513594,2614.618077,6,0
+112,112,42,36,no mask,39,male,inverted_first,1672.738095,2427.027778,16,10,5,36,30,84,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_11h43.14.18.csv,5f1c55c8ea92af4d99d03137,16.52421667,288,"es([], ",38,"229    male
+Name: gender, dtype: object",52,40,2257.807692,3655.65,-10,-4
+113,113,46,30,no mask,61,female,inverted_first,4242.178261,5102.03,5,1,10,39,30,33,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_12h01.21.67.csv,5ea19dcac30e0005e6e6b6e3,34.69786667,288,"es([], ",60,"228    male
+Name: gender, dtype: object",41,35,2655.864634,3576.109143,5,-5
+114,114,39,35,no mask,39,female,inverted_first,1716.346154,2214.331429,21,11,8,38,33,77,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_12h15.09.333.csv,5dc860e9dcc83f5d2d85ec67,42.10186667,288,"es([], ",38,"150    female
+Name: gender, dtype: object",39,35,1560.85141,1765.626429,0,0
+115,115,56,24,no mask,55,male,inverted_first,2166.819643,2892.716667,11,4,2,52,47,66,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_12h19.59.0.csv,5e07aa9cb638531138f72587,18.9848,288,"es([], ",54,"226    male
+Name: gender, dtype: object",51,35,1915.182353,2749.971857,5,-11
+116,116,52,39,no mask,24,male,inverted_first,1791.259615,2720.623077,17,8,5,54,47,56,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_12h31.54.215.csv,5f1164d8aca7f8000cca2709,15.42851667,288,"es([], ",24,"241    male
+Name: gender, dtype: object",59,37,2362.548051,4305.669865,-7,2
+117,117,71,53,no mask,32,female,inverted_first,1779.915493,2990.641509,19,11,8,25,20,83,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_13h46.51.689.csv,5e8e0a10e9878f06eb114260,19.0729,288,"es([], ",32,"159    female
+Name: gender, dtype: object",68,43,2854.764706,4272.395349,3,10
+118,118,53,37,no mask,28,male,inverted_first,4379.233962,3211.594595,16,10,6,35,28,21,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_13h47.57.136.csv,5e0e396901423f58bf9f6684,23.2283,288,"es([], ",27,"217    male
+Name: gender, dtype: object",43,42,5791.618256,10396.63869,10,-5
+119,119,55,40,no mask,21,male,inverted_first,2302.563636,4642.405,14,7,7,27,21,22,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h18.12.553.csv,5de6c610e4b8c5642cde39d9,27.34195,288,"es([], ",20,"211    male
+Name: gender, dtype: object",47,31,3400.013404,6448.875161,8,9
+120,120,71,39,no mask,22,male,inverted_first,2184.077465,3302.866667,13,10,3,22,19,22,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h19.01.526.csv,5c840aedbad8fb000106cb44,18.0099,288,"es([], ",21,"242    male
+Name: gender, dtype: object",64,40,1807.224766,2061.037875,7,-1
+121,121,44,39,no mask,19,male,inverted_first,1849.431818,2320.128205,11,6,2,43,38,17,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h21.18.994.csv,5e66b908a211cf0a58a78de7,15.06836667,288,"es([], ",18,"207    male
+Name: gender, dtype: object",40,39,1758.023625,2800.780641,4,0
+122,122,61,31,no mask,21,female,inverted_first,2214.02459,3387.332258,8,5,6,33,24,27,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h32.30.181.csv,5f3abfead0362c14ef650c1a,21.35623333,288,"es([], ",20,"176    female
+Name: gender, dtype: object",46,32,3180.256848,4310.002656,15,-1
+123,123,61,42,no mask,23,female,inverted_first,2708.440984,4653.166667,22,11,5,37,31,89,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_14h35.42.535.csv,5c201c2189f0350001731f99,21.37655,288,"es([], ",22,"146    female
+Name: gender, dtype: object",49,29,2635.539592,4985.123966,12,13
+124,124,68,40,no mask,20,female,inverted_first,1622.691176,1747.275,5,1,5,34,28,0,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_16h23.02.350.csv,5f3cf75f2982e903fb34b9f6,13.85635,288,"es([], ",19,"141    female
+Name: gender, dtype: object",61,39,2140.442623,3479.512821,7,1
+125,125,54,41,no mask,27,male,inverted_first,3736.796296,5252.04878,14,7,2,43,40,39,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_16h35.50.152.csv,5dc4bc30569be3387eb6b52f,25.61821667,288,"es([], ",26,"245    male
+Name: gender, dtype: object",45,29,2771.866667,4316.137931,9,12
+126,126,59,44,no mask,26,female,inverted_first,4909.862712,4307.502273,24,12,5,29,23,82,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_18h02.02.626.csv,5dbc61a0df0b4820e71a0e99,30.82591667,288,"es([], ",26,"182    female
+Name: gender, dtype: object",43,34,2297.100233,3548.551029,16,10
+127,127,39,37,no mask,28,female,inverted_first,2059.820513,3472.027027,18,9,5,21,17,78,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_18h21.03.832.csv,5ec31cab8be41217405324fc,16.39793333,288,"es([], ",27,"174    female
+Name: gender, dtype: object",48,39,2670.1875,5576.410256,-9,-2
+128,128,48,35,no mask,19,male,inverted_first,1946.825,1859.8,19,6,3,54,48,66,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_19h41.30.870.csv,5e67a25bff87e0047c6c436b,14.5878,288,"es([], ",18,"201    male
+Name: gender, dtype: object",57,34,2165.012018,2607.284412,-9,1
+129,129,58,41,no mask,24,female,inverted_first,2148.915603,3379.145366,16,9,6,48,40,97,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_20h32.53.338.csv,5e8c626158544f023c96a50e,19.05471667,288,"es([], ",,"180    female
+Name: gender, dtype: object",48,32,2257.091667,2220.9875,10,9
+130,130,47,44,no mask,24,male,inverted_first,1987.26383,3076.822727,12,11,4,25,21,89,Office,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_22h49.28.939.csv,5c88d569d47e6a0001a6192a,18.16896667,288,"es([], ",23,"236    male
+Name: gender, dtype: object",51,40,2200.178431,2507.804875,-4,4
+131,131,41,37,no mask,33,female,inverted_first,2043.95122,6331.297297,19,9,2,25,21,82,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-29_22h55.29.558.csv,5c9b3126a586fd00154d5440,21.89786667,288,"es([], ",32,"164    female
+Name: gender, dtype: object",39,27,2449.282051,3235.777778,2,10
+132,132,54,44,no mask,23,male,inverted_first,2113.724074,2968.972727,9,5,3,22,21,22,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_12h00.53.194.csv,5ee79fdcde87be04391c05be,26.82031667,288,"es([], ",22,"204    male
+Name: gender, dtype: object",54,37,2493.899815,2325.955676,0,7
+133,133,63,41,no mask,23,male,inverted_first,1780.312698,2465.42439,12,8,8,43,34,44,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-30_19h40.56.750.csv,5c6d938c79151c00017c7560,20.67923333,288,"es([], ",22,"215    male
+Name: gender, dtype: object",50,36,2551.8941,4160.482639,13,5
+134,134,70,56,no mask,37,male,inverted_first,2998.514286,3633.857143,5,5,1,31,26,61,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_08h49.12.4.csv,5efa4e52f512b188fb57c2a2,21.21976667,288,"es([], ",36,"210    male
+Name: gender, dtype: object",37,24,3599.459459,5428.708333,33,32
+135,135,55,45,no mask,23,male,inverted_first,2156.238182,3113.16,10,6,2,22,19,33,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_14h05.57.645.csv,5ecd7c8a5a1fc80f03f1dc0e,21.36906667,288,"es([], ",22,"200    male
+Name: gender, dtype: object",62,42,1869.382097,2898.214048,-7,3
+136,136,64,33,no mask,23,male,inverted_first,1743.560938,1992.215152,11,8,3,31,28,55,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_14h47.23.102.csv,5fc12cc27f2ae31010f6e5c6,16.74138333,288,"es([], ",22,"239    male
+Name: gender, dtype: object",60,39,3278.4295,4445.698462,4,-6
+137,137,55,29,no mask,37,female,inverted_first,6037.192727,7711.572414,15,8,6,40,35,78,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_20h51.41.743.csv,5c2b94152c45d4000149fefc,36.83903333,288,"es([], ",37,"138    female
+Name: gender, dtype: object",47,31,6596.375532,13773.63113,8,-2
+138,138,58,40,no mask,30,female,inverted_first,3120.943103,3981.3775,12,9,10,42,34,85,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2021-12-31_20h53.09.555.csv,5f0dbbac1296d504be69f37e,21.79255,288,"es([], ",29,"163    female
+Name: gender, dtype: object",52,48,1748.767692,3234.767604,6,-8
+139,139,56,37,no mask,21,female,inverted_first,2222.307143,2342.972973,13,10,0,25,22,54,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_18h53.07.838.csv,5efb0fdafa9a7b022b6cdba8,15.91713333,288,"es([], ",20,"197    male
+Name: gender, dtype: object",56,35,2085.035268,3506.876571,0,2
+140,140,53,37,no mask,22,male,inverted_first,2057.239623,4852.327027,4,9,4,39,33,0,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-01_20h20.19.291.csv,5a64a6e313898300014b4366,22.92943333,288,"es([], ",21,"213    male
+Name: gender, dtype: object",49,31,3563.37551,7211.050968,4,6
+141,141,59,36,no mask,21,male,inverted_first,2749.466102,5679.280556,22,7,1,37,36,60,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-02_11h01.17.168.csv,5f8d7850f3a3ef065112ffb5,20.74445,288,"es([], ",20,"216    male
+Name: gender, dtype: object",49,58,3218.378571,22209.48629,10,-22
+142,142,49,34,no mask,36,female,inverted_first,3218.061224,3972,7,7,6,45,39,45,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-02_13h33.10.275.csv,5f5d51785a31085a80509958,23.05008333,288,"es([], ",35,"139    female
+Name: gender, dtype: object",47,38,7939.914894,15092.15789,2,-4
+143,143,71,49,no mask,27,female,inverted_first,1888.821127,4530.016327,12,4,2,26,23,33,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_10h57.44.507.csv,5f2e18f48bf8dd16e230ae01,24.74136667,288,"es([], ",26,"123    female
+Name: gender, dtype: object",68,40,4870.429485,3989.8,3,9
+144,144,39,43,no mask,21,female,inverted_first,1801.897436,3389.951163,19,10,4,34,30,89,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_14h46.59.970.csv,5ed5167f51dfb105433ba271,15.31563333,288,"es([], ",20,"230    male
+Name: gender, dtype: object",40,37,2141.843625,4809.044189,-1,6
+145,145,48,30,no mask,26,female,inverted_first,2165.633333,4264.273333,16,8,4,35,29,88,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-03_21h11.17.231.csv,5fa66e400655e427dbdda8ac,23.57035,288,"es([], ",25,"140    female
+Name: gender, dtype: object",49,28,2601.568469,3033.433214,-1,2
+146,146,63,37,no mask,31,female,inverted_first,2936.547619,3140.818919,11,8,5,30,26,66,Home,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-04_15h35.17.556.csv,5f739994244c770f7ef035a2,26.8281,288,"es([], ",30,"160    female
+Name: gender, dtype: object",62,37,3119.127419,4646.998649,1,0
+147,147,68,46,no mask,22,male,inverted_first,2604.944118,4307.917391,17,12,5,28,23,66,unemployed,jan2021_cfmt_nomask_inverted_upright_PARTICIPANT_SESSION_2022-01-04_19h52.35.149.csv,5eee52deb416da2e0e56d60f,25.0405,288,"es([], ",21,"232    male
+Name: gender, dtype: object",46,26,3235.373913,4084.008654,22,20
+148,148,61,47,no mask,46,male,upright_first,4439.390164,4508.576596,14,9,2,38,33,55,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_16h55.19.118.csv,5bdf91dbb32fa800012ea282,37.10301667,288,"es([], ",45,"471    male
+Name: gender, dtype: object",61,51,6858.234672,8358.517255,0,-4
+149,149,51,39,no mask,34,male,upright_first,2680.435294,2986.610256,14,9,10,45,38,82,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_17h16.42.313.csv,5f1d13b205289d1bf55a209e,19.68241667,288,"es([], ",33,"435    male
+Name: gender, dtype: object",45,35,3255.809111,3072.517,6,4
+150,150,52,37,no mask,22,male,upright_first,3818.976923,2873.591892,17,0,2,23,22,73,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_18h29.04.80.csv,5f9371409b8ab214fb35c7e5,23.80106667,288,"es([], ",21,"472    male
+Name: gender, dtype: object",39,29,2838.303077,3216.024828,13,8
+151,151,40,35,no mask,29,male,upright_first,3111.075,2630.914286,16,10,8,54,46,84,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_19h04.51.961.csv,5f67c61d4084d6407fb4a346,21.18486667,288,"es([], ",28,"438    male
+Name: gender, dtype: object",38,35,2615.342105,2431.514286,2,0
+152,152,67,46,no mask,37,male,upright_first,2060.970149,3018.021739,16,10,6,37,31,78,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_22h08.13.934.csv,5d6d32ead222ba001553e7bd,16.94986667,288,"es([], ",36,"434    male
+Name: gender, dtype: object",50,38,3556.4396,3645.517105,17,8
+153,153,60,62,no mask,21,male,upright_first,2038.995,2761.751613,22,12,3,21,21,78,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_22h31.03.978.csv,5f2af90688d9b246791ba03d,16.27056667,288,"es([], ",20,"477    male
+Name: gender, dtype: object",53,41,2067.749717,2631.24,7,21
+154,154,62,33,no mask,47,male,upright_first,2397.658065,2474.933333,19,8,4,28,23,77,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_22h34.51.421.csv,5df6c8bd77f8654c718ee1d9,17.91275,288,"es([], ",46,"480    male
+Name: gender, dtype: object",52,34,3043.009327,3245.759559,10,-1
+155,155,70,53,no mask,30,male,upright_first,2611.641429,3620.364151,9,10,4,25,21,10,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_22h57.00.281.csv,5c5da3b159ec1d0001fe5606,23.75715,288,"es([], ",29,"483    male
+Name: gender, dtype: object",61,48,4401.821639,6877.864687,9,5
+156,156,51,31,no mask,59,female,upright_first,2885.647059,2993.096774,23,10,4,57,50,89,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h02.45.515.csv,5db31089a1f8d3000c10a6c5,21.2513,288,"es([], ",58,"419    female
+Name: gender, dtype: object",45,39,2880.733333,2519.487179,6,-8
+157,157,54,33,no mask,25,female,upright_first,3062.237037,2681.393939,18,11,6,38,31,88,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h07.47.446.csv,5f0c7a2f0ab6450af12e4c05,20.4356,288,"es([], ",24,"374    female
+Name: gender, dtype: object",45,32,2496.161222,1908.627969,9,1
+158,158,61,38,no mask,26,female,upright_first,2254.778689,2228.173684,10,10,5,27,21,74,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h09.21.213.csv,5f209bb12cf3543aed1fee25,17.35841667,288,"es([], ",25,"377    female
+Name: gender, dtype: object",50,32,2324.9869,2227.0625,11,6
+159,159,57,29,no mask,45,female,upright_first,3012.759649,2724.441379,8,9,10,47,38,82,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h11.59.644.csv,5f57fef7e7b06a35296f215d,17.26916667,288,"es([], ",44,"410    female
+Name: gender, dtype: object",49,47,2763.867653,2846.977553,8,-18
+160,160,67,46,no mask,24,male,upright_first,2162.801493,2410.915217,14,9,7,32,26,45,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h35.33.866.csv,5e8a66381afb2c714058b57b,18.38923333,288,"es([], ",23,"462    male
+Name: gender, dtype: object",62,46,3051.243952,2762.558043,5,0
+161,161,58,39,no mask,20,male,upright_first,2173.496552,2835.507692,20,8,3,22,19,83,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h38.23.366.csv,5f5a69a0b2b7c2119ecf07bf,20.134,288,"es([], ",19,"448    male
+Name: gender, dtype: object",53,38,2992.089057,2459.195658,5,1
+162,162,53,28,no mask,19,male,upright_first,2903.173585,2312.260714,7,0,8,38,29,22,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-28_23h54.22.44.csv,5f9c5b04b6dc1f0e57fb3f67,20.14671667,288,"es([], ",18,"451    male
+Name: gender, dtype: object",56,32,3911.340625,2527.246094,-3,-4
+163,163,42,29,no mask,20,male,upright_first,1705.790476,1779.9,14,5,6,48,42,37,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h07.46.756.csv,5eaef8702b68455d6e130595,14.53308333,288,"es([], ",19,"488    male
+Name: gender, dtype: object",43,36,2955.085814,2895.7925,-1,-7
+164,164,52,29,no mask,37,male,upright_first,1866.230769,1989.551724,14,8,4,51,44,65,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h11.48.140.csv,5ec66c4259d924047b9c413a,17.11528333,288,"es([], ",36,"490    male
+Name: gender, dtype: object",47,42,2319.255319,2426.952381,5,-13
+165,165,36,35,no mask,21,male,upright_first,3001.580556,3677.308571,9,3,4,36,29,16,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h24.08.188.csv,5f5b9846033f642ff6884099,20.64226667,288,"es([], ",21,"456    female
+Name: gender, dtype: object",36,30,3931.800417,4370.921,0,5
+166,166,68,50,no mask,28,male,upright_first,2396.638235,3547.218,17,7,2,44,40,66,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h32.43.804.csv,5e5ce9165cd2ad4c23019550,18.88236667,288,"es([], ",27,"486    male
+Name: gender, dtype: object",62,42,2250.230726,2969.608095,6,8
+167,167,68,37,no mask,31,male,upright_first,2765.914706,2629.881081,21,12,2,45,41,95,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h35.36.432.csv,5fce02c3ce77180008fb5476,18.82421667,288,"es([], ",30,"468    male
+Name: gender, dtype: object",61,38,5611.119344,4523.361842,7,-1
+168,168,67,53,no mask,18,female,upright_first,3041.10597,2538.677358,11,9,1,29,28,21,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h47.00.41.csv,5e611e23e6d609000ae35968,19.4044,288,"es([], ",18,"405    female
+Name: gender, dtype: object",60,46,3628.366667,3066.661087,7,7
+169,169,72,57,no mask,29,male,upright_first,3119.6625,4071.263158,11,7,1,30,26,35,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_00h57.37.535.csv,5cdc88cc50f50f001a783112,23.21288333,288,"es([], ",28,"464    male
+Name: gender, dtype: object",56,47,4206.400268,6608.655532,16,10
+170,170,48,41,no mask,25,female,upright_first,2656.05625,3206.45122,21,10,6,22,17,76,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_01h08.49.777.csv,5e84d3a163e17909b9e858b5,18.74091667,288,"es([], ",24,"397    female
+Name: gender, dtype: object",51,37,3203.435882,1528.465405,-3,4
+171,171,64,42,no mask,35,male,upright_first,3389.032813,3702.557143,18,9,8,39,32,69,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_01h45.05.587.csv,5c9d88bb2b3c77001744ec1c,20.36281667,288,"es([], ",34,"482    male
+Name: gender, dtype: object",45,33,4026.003778,5251.355303,19,9
+172,172,67,44,no mask,19,female,upright_first,2655.08806,1792.454545,18,9,3,36,30,83,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_01h48.37.848.csv,5f4f04a11671f8157c1e4a06,28.30833333,288,"es([], ",18,"412    female
+Name: gender, dtype: object",50,33,2843.746,1444.29303,17,11
+173,173,56,37,no mask,22,female,upright_first,2741.367857,1841.002703,22,12,10,36,25,91,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_02h18.04.797.csv,5f5a1dbec9012406a20ea2d7,18.11676667,288,"es([], ",21,"416    female
+Name: gender, dtype: object",55,31,1774.955818,1361.542419,1,6
+174,174,67,50,no mask,28,male,upright_first,2517.759701,2529.574,17,7,4,47,45,76,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_03h58.28.23.csv,5deeb3dd8bf3da55c2f6a507,25.04196667,288,"es([], ",27,"436    male
+Name: gender, dtype: object",66,43,3402.706667,2729.340116,1,7
+175,175,68,47,no mask,46,female,upright_first,3287.029412,4276.974468,13,7,2,23,22,93,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_05h56.53.317.csv,5ed52685a0b2d0078e02cffe,23.2659,288,"es([], ",46,"381    female
+Name: gender, dtype: object",56,41,2988.696786,2854.757927,12,6
+176,176,64,59,no mask,21,female,upright_first,2691.476562,2852.038983,21,12,3,30,27,77,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_09h13.23.131.csv,5f33289c1fe9181376ee67d9,22.14468333,288,"es([], ",20,"407    female
+Name: gender, dtype: object",45,43,3170.617556,3049.813953,19,16
+177,177,43,46,no mask,23,female,upright_first,1940.983721,1813.167391,4,5,9,50,41,23,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_09h14.17.780.csv,5dd25456cc192027096069bb,32.00106667,288,"es([], ",22,"425    female
+Name: gender, dtype: object",42,44,2004.238095,1662.386364,1,2
+178,178,71,69,no mask,32,female,upright_first,4230.992958,3799.076812,20,9,8,37,30,76,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_09h18.47.569.csv,5f2664edcb7a443902254785,29.5263,288,"es([], ",31,"432    female
+Name: gender, dtype: object",70,67,7877.922071,7487.578881,1,2
+179,179,47,41,no mask,39,male,upright_first,4610.744681,4079.521951,2,9,12,64,52,11,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_09h53.58.353.csv,5cc8bdd79366c80001eda779,26.83273333,288,"es([], ",38,"463    male
+Name: gender, dtype: object",47,30,8186.286383,4868.871333,0,11
+180,180,64,44,no mask,39,female,upright_first,4096.9375,3002.840909,14,10,3,31,26,67,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_10h04.54.890.csv,5e33e9b555c80a3b1a42693d,21.55425,288,"es([], ",38,"423    female
+Name: gender, dtype: object",49,44,2669.470816,3290.328864,15,0
+181,181,42,39,no mask,58,female,upright_first,6114.964286,5945.44359,0,0,11,59,50,24,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_10h28.24.257.csv,5b116068160a2e0001acb494,30.75618333,288,"es([], ",57,"403    female
+Name: gender, dtype: object",39,38,4545.850256,4250.176711,3,1
+182,182,51,42,no mask,25,female,upright_first,2455.352941,2866.842857,23,10,7,42,33,78,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_10h36.24.600.csv,5f6d114289a12b1704d87de6,20.76741667,288,"es([], ",24,"415    female
+Name: gender, dtype: object",57,36,2564.499298,1773.799306,-6,6
+183,183,60,42,no mask,22,female,upright_first,2475.45,3246.47619,18,11,8,24,23,77,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_11h07.05.43.csv,5f3dc7185c7fba1e8306a4e3,19.49856667,288,"es([], ",21,"408    female
+Name: gender, dtype: object",54,37,3135.12963,4437.432432,6,5
+184,184,50,35,no mask,48,male,upright_first,3863.28,6802.6,23,11,4,34,28,89,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_11h49.50.807.csv,590741365905400001ef09ec,43.68593333,288,"es([], ",47,"487    male
+Name: gender, dtype: object",45,36,3133.088889,3108.138889,5,-1
+185,185,52,40,no mask,53,male,upright_first,2350.528846,3068.3,21,10,6,33,27,87,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_12h12.52.17.csv,5d0c90dc3382180015624ad9,21.53073333,288,"es([], ",52,"481    male
+Name: gender, dtype: object",54,43,3027.505,3125.22686,-2,-3
+186,186,55,39,no mask,27,male,upright_first,1586.738182,1614.8,12,10,6,48,41,77,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_13h53.50.723.csv,5c940bc5cde5b30001d2d138,13.83976667,288,"es([], ",26,"447    male
+Name: gender, dtype: object",55,29,1823.609364,2240.59569,0,10
+187,187,59,37,no mask,21,male,upright_first,1620.367797,1643.856757,21,10,7,49,42,89,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_13h55.08.873.csv,5eea8ba19d0a1a155a3a67f7,14.68346667,288,"es([], ",20,"493    male
+Name: gender, dtype: object",48,40,3434.750833,2484.140875,11,-3
+188,188,62,40,no mask,27,male,upright_first,2740.262903,2364.3375,14,6,2,26,22,67,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_17h29.11.681.csv,5a0d98287542890001aa71e3,16.31288333,288,"es([], ",26,"476    male
+Name: gender, dtype: object",59,39,2362.346356,2310.813974,3,1
+189,189,64,47,no mask,23,male,upright_first,2481.548438,3178.504255,22,11,2,22,19,100,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_17h39.23.463.csv,5faefdc33a31c611e148ce22,45.39073333,288,"es([], ",22,"479    male
+Name: gender, dtype: object",57,45,2424.064298,2936.076222,7,2
+190,190,60,42,no mask,25,female,upright_first,1758.565,1490.942857,20,9,8,33,30,78,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_18h38.48.301.csv,5e12202adc79bd8a6c74499b,14.48333333,288,"es([], ",24,"409    female
+Name: gender, dtype: object",59,33,2223.437797,1898.405455,1,9
+191,191,65,53,no mask,52,female,upright_first,2813.863077,2756.767925,15,6,6,40,34,67,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-29_19h50.42.573.csv,5ab77bce47a9f70001539cb0,19.98395,288,"es([], ",51,"380    female
+Name: gender, dtype: object",65,40,3349.377769,3854.928375,0,13
+192,192,69,51,no mask,31,female,upright_first,2212.284058,5860.833333,15,10,9,53,44,72,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_03h04.18.28.csv,5c98b190f74b3500012c181c,26.8946,288,"es([], ",31,"389    female
+Name: gender, dtype: object",64,45,4307.786406,5466.746333,5,6
+193,193,50,44,no mask,19,male,upright_first,4138.664,2598.611364,10,8,3,30,25,11,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_03h57.23.485.csv,5e66de9aa7c1cb467abe171f,30.0193,288,"es([], ",18,"452    male
+Name: gender, dtype: object",34,37,2518.191471,2838.172432,16,7
+194,194,59,54,no mask,21,male,upright_first,4931.181356,3636.45,2,1,11,41,31,0,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_08h54.52.642.csv,5eb0cb5afb9e2418da928edb,29.12783333,288,"es([], ",20,"473    male
+Name: gender, dtype: object",52,44,4244.726346,3528.933864,7,10
+195,195,65,38,no mask,23,female,upright_first,2005.523077,2980.157895,16,9,5,32,26,44,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_09h30.25.385.csv,5ff5dcbade4fe70b5d02f6f0,22.24245,288,"es([], ",23,"372    female
+Name: gender, dtype: object",65,53,2429.892308,3028.792453,0,-15
+196,196,60,36,no mask,32,male,upright_first,2216.8,633.5555556,24,12,11,57,48,84,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_11h19.55.6.csv,5f43c16c80e2f92862deea27,11.23915,288,"es([], ",31,"484    male
+Name: gender, dtype: object",49,34,1977.530612,1192.970588,11,2
+197,197,66,35,no mask,24,female,upright_first,1798.084848,1469.154286,22,12,10,43,34,82,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_12h23.01.89.csv,5f784393b1c1383c43376c66,12.47485,288,"es([], ",23,"375    female
+Name: gender, dtype: object",47,32,2862.619255,1795.319375,19,3
+198,198,70,49,no mask,26,female,upright_first,2012.932857,2601.371429,19,10,2,35,29,87,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-30_15h16.54.437.csv,5c4de0ae423a35000128a277,19.28393333,288,"es([], ",25,"427    female
+Name: gender, dtype: object",65,46,2927.486615,3208.174348,5,3
+199,199,42,33,no mask,26,male,upright_first,2958.269048,2032.360606,14,7,5,48,40,66,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_15h31.47.714.csv,5e5281d588c30529780e0007,29.50055,288,"es([], ",25,"450    male
+Name: gender, dtype: object",50,36,2575.0782,1870.003611,-8,-3
+200,200,42,42,no mask,24,male,upright_first,3079.764286,3801.938095,9,9,2,30,24,22,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2021-12-31_16h20.08.781.csv,5edd10be09cfd09f34a7f00c,23.24868333,288,"es([], ",23,"491    male
+Name: gender, dtype: object",47,35,2729.166809,3326.633286,-5,7
+201,201,62,30,no mask,25,female,upright_first,3205.617742,4475.593333,9,5,7,28,23,44,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-01_13h51.31.754.csv,5de4280370c53a011839950f,23.41078333,288,"es([], ",24,"422    female
+Name: gender, dtype: object",50,31,3247.3959,2224.198065,12,-1
+202,202,67,52,no mask,20,female,upright_first,2207.456716,2368.769231,22,11,5,33,25,86,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-01_18h47.18.51.csv,5fe36de52fbe51004e7b90ec,45.99828333,288,"es([], ",19,"424    female
+Name: gender, dtype: object",57,37,2956.090439,2873.345946,10,15
+203,203,51,35,no mask,34,female,upright_first,2722.57451,2859.094286,15,8,4,55,47,40,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-03_09h43.53.439.csv,5d93c8c883e2470018a4f853,17.76596667,288,"es([], ",34,"378    female
+Name: gender, dtype: object",43,40,3480.978488,2982.610125,8,-5
+204,204,35,32,no mask,23,male,upright_first,1645.437143,1020.809375,17,7,5,53,46,66,unemployed,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-03_13h14.20.515.csv,5dcc07a95cb36e8a98dadca1,12.49653333,288,"es([], ",22,"445    male
+Name: gender, dtype: object",42,34,1932.012738,1560.272059,-7,-2
+205,205,65,39,no mask,26,female,upright_first,2253.246154,2072.348718,19,10,8,35,29,70,Home,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-03_13h47.36.125.csv,5fac746bd36215260a91ed13,15.33943333,288,"es([], ",25,"373    female
+Name: gender, dtype: object",57,42,2502.385965,2318.142857,8,-3
+206,206,53,44,no mask,23,female,upright_first,3386.983019,3633.434091,16,10,10,30,22,74,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-04_09h32.00.989.csv,5f5fb69944526d05af5ad1d4,23.73603333,288,"es([], ",22,"402    female
+Name: gender, dtype: object",51,41,5497.848235,3195.548902,2,3
+207,207,69,49,no mask,29,male,upright_first,2357.786957,2185.993878,18,9,9,32,28,61,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-04_19h11.03.769.csv,5d382e792a1ec500170b13e2,16.57881667,288,"es([], ",28,"454    male
+Name: gender, dtype: object",49,46,2513.848469,3379.578478,20,3
+208,208,72,43,no mask,44,female,upright_first,2105.531944,1815.774419,19,11,6,33,27,72,Office,jan2021_cfmt_nomask_upright_inverted_PARTICIPANT_SESSION_2022-01-04_21h07.18.377.csv,5d56e42779c6ca0001c071b7,15.92323333,288,"es([], ",43,"371    female
+Name: gender, dtype: object",65,40,2615.291615,2121.3365,7,3
